@@ -30,3 +30,6 @@ Further links:
   * downvoted steemit article [here](https://steemit.com/gridcoin/@erkan/censorship-within-the-gridcoin-community-on-subjects-that-some-people-don-t-want-broadcast-to-the-gridcoin-community-and-beyond)
   
 * Listen also to [hangout 35](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes/blob/master/hangout_2017_07_22.MD) (at end). 
+
+* comment about: [Gridcoin + its troublesome superblocks (in the last 4 weeks)](https://aboutgridcoin.blogspot.de/2017/07/gridcoin-its-troublesome-superblocks-in.html)
+  * read [comment](http://i.imgur.com/juTv4m9.png) (on [steemit](https://steemit.com/gridcoin/@erkan/gridcoin-its-troublesome-superblocks-in-the-last-4-weeks#@frank0051/re-erkan-gridcoin-its-troublesome-superblocks-in-the-last-4-weeks-20170723t161946465z))
