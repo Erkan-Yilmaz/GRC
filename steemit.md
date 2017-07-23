@@ -16,6 +16,8 @@ In case they get further downvoted on steemit, new links will be added here on g
 
 In such a case I also ask you to upvote the steemit post, so it gets "unhidden" again over time. Thank you!
 
+P.S. you can also like, ... here on github by using "Add a reaction" where you have different emoticons.
+
 <br>
 
 Further links:
