@@ -27,6 +27,6 @@ Further links:
 
 * summary of recently downvoted articles at: [Censorship within the Gridcoin Community on subjects that some people don't want broadcast to the Gridcoin Community and Beyond](https://aboutgridcoin.blogspot.de/2017/07/censorship-within-gridcoin-community-on.html)
   * see [this](http://i.imgur.com/NVWDmnQ.png) comment ([link](https://steemit.com/gridcoin/@erkan/censorship-within-the-gridcoin-community-on-subjects-that-some-people-don-t-want-broadcast-to-the-gridcoin-community-and-beyond#@m3rcos1ty/re-erkan-censorship-within-the-gridcoin-community-on-subjects-that-some-people-don-t-want-broadcast-to-the-gridcoin-community-and-beyond-20170721t102616967z))
-  * downvoted steemit article [here]((https://steemit.com/gridcoin/@erkan/censorship-within-the-gridcoin-community-on-subjects-that-some-people-don-t-want-broadcast-to-the-gridcoin-community-and-beyond))
+  * downvoted steemit article [here](https://steemit.com/gridcoin/@erkan/censorship-within-the-gridcoin-community-on-subjects-that-some-people-don-t-want-broadcast-to-the-gridcoin-community-and-beyond)
   
 * Listen also to [hangout 35](https://github.com/Erkan-Yilmaz/Gridcoin-hangout-minutes/blob/master/hangout_2017_07_22.MD) (at end). 
