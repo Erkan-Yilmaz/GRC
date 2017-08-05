@@ -21,10 +21,11 @@ P.S. you can also like, ... here on github by using "Add a reaction" where you h
 <br>
 
 Further links:
-* the steemit admin downvoted article [Coincidence? 4-5 days after each release a forking situation?](https://aboutgridcoin.blogspot.de/2017/07/coincidence-4-5-days-after-each-release.html)
+* Fuzzy, the steemit guy who runs the steemit show, 1. downvoted article [Coincidence? 4-5 days after each release a forking situation?](https://aboutgridcoin.blogspot.de/2017/07/coincidence-4-5-days-after-each-release.html)
   * see [this](http://i.imgur.com/wlzUYLW.png) comment ([link](https://steemit.com/gridcoin/@erkan/coincidence-4-5-days-after-each-release-a-forking-situation#@guk/re-erkan-coincidence-4-5-days-after-each-release-a-forking-situation-20170723t014524044z))
   * downvoted [steemit post](https://steemit.com/gridcoin/@erkan/coincidence-4-5-days-after-each-release-a-forking-situation)
-
+  * 2. another downvoting case [here](https://steemit.com/gridcoin/@erkan/you-didn-t-upgrade-yet-to-new-gridcoin-version-3-5-9-8-here-some-sneak-preview#@erkan/re-erkan-you-didn-t-upgrade-yet-to-new-gridcoin-version-3-5-9-8-here-some-sneak-preview-20170803t213040212z)
+  
 * summary of recently downvoted articles at: [Censorship within the Gridcoin Community on subjects that some people don't want broadcast to the Gridcoin Community and Beyond](https://aboutgridcoin.blogspot.de/2017/07/censorship-within-gridcoin-community-on.html)
   * see [this](http://i.imgur.com/NVWDmnQ.png) comment ([link](https://steemit.com/gridcoin/@erkan/censorship-within-the-gridcoin-community-on-subjects-that-some-people-don-t-want-broadcast-to-the-gridcoin-community-and-beyond#@m3rcos1ty/re-erkan-censorship-within-the-gridcoin-community-on-subjects-that-some-people-don-t-want-broadcast-to-the-gridcoin-community-and-beyond-20170721t102616967z))
   * downvoted steemit article [here](https://steemit.com/gridcoin/@erkan/censorship-within-the-gridcoin-community-on-subjects-that-some-people-don-t-want-broadcast-to-the-gridcoin-community-and-beyond)
